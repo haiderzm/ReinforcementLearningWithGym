@@ -46,6 +46,7 @@
 
 ##### Result of Q-learning on MountainCar-v0 Gym Environment
 https://user-images.githubusercontent.com/46081121/189807697-2503f35f-d3ce-4e2d-8150-e072aa48fa48.mp4
+
 <br>
 
 ##### Result of Q-learning on CartPole Gym Environment
