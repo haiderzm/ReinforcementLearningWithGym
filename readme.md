@@ -23,7 +23,6 @@
 ## Deep Q-Learning
 ##### In Deep Q-learning, we use a neural network to approximate the Q-value function. The state is given as the input and the Q-value of all possible actions is generated as the output. 
 
-<br>
 
 ##### Deep Q Algorithm
 ![alt text](./assets/deep_q_algo.png)
@@ -32,16 +31,14 @@
 ##### Bellman Equation
 
 ##### In deep Q-learning, we use a neural network to approximate the Q-value function. The state is given as the input and the Q-value of all possible actions is generated as the output. 
-<br>
+
 
 ##### Deep Q-Learning using Neural Networks
 ![alt text](./assets/deep_q_learning.png)
 
 
-<br>
 
 ## Some Results
-<br>
 
 ##### Result of Q-learning on MountainCar-v0 Gym Environment
 https://user-images.githubusercontent.com/46081121/189807697-2503f35f-d3ce-4e2d-8150-e072aa48fa48.mp4
