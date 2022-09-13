@@ -45,11 +45,11 @@
 
 ##### Result of Q-learning on MountainCar-v0 Gym Environment
 https://user-images.githubusercontent.com/46081121/189807697-2503f35f-d3ce-4e2d-8150-e072aa48fa48.mp4
-<br>
+
 
 ##### Result of Q-learning on CartPole Gym Environment
 https://user-images.githubusercontent.com/46081121/189808148-344d2078-e387-46d1-8c1e-7ec58263bb64.mp4
-<br>
+
 
 ##### Result of Deep Q-learning on Breakout Atari Gym Environment
 https://user-images.githubusercontent.com/46081121/189808258-e3e0b0c7-9add-470c-b1aa-348a032cdc0b.mp4
