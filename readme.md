@@ -8,17 +8,17 @@
 <br>
 
 ##### We replace iterative format of bellman equation
-![alt text](/home/haider/Desktop/bellman_iterative.png)
+![alt text](./assets/bellman_iterative.png)
 <br>
 
 ##### And use it in form of expectation
-![alt text](/home/haider/Desktop/bellman_expect.png)
+![alt text](./assets/bellman_expect.png)
 
 ##### Equation for training of the RL agent
-![alt text](/home/haider/Desktop/rl_train.png)
+![alt text](./assets/rl_train.png)
 
 ##### Q-Learning using Q Table
-![alt text](/home/haider/Desktop/q_learning.png)
+![alt text](./assets/q_learning.png)
 
 <br>
 <br>
@@ -29,7 +29,7 @@
 <br>
 
 ##### Deep Q Algorithm
-![alt text](/home/haider/Desktop/deep_q_algo.png)
+![alt text](./assets/deep_q_algo.png)
 <br>
 
 ##### Bellman Equation
@@ -38,7 +38,7 @@
 <br>
 
 ##### Deep Q-Learning using Neural Networks
-![alt text](/home/haider/Desktop/deep_q_learning.png)
+![alt text](./assets/deep_q_learning.png)
 
 ## Some Results
 <br>
