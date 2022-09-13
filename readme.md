@@ -39,7 +39,7 @@
 ![alt text](./assets/deep_q_learning.png)
 
 
-
+<br>
 ## Some Results
 <br>
 
